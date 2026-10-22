@@ -1,25 +1,22 @@
-# Aranca BFSI Website
+# Aranca BFSI Segment Website
 
-A responsive static website prototype for Aranca's Banking, Financial Services & Insurance division.
+This GitHub Pages package uses the uploaded `aranca_bfsi_segment_website.html` as the website design and interaction reference.
 
 ## Files
-- `index.html` — page structure and content
-- `styles.css` — responsive layout and visual styling
-- `script.js` — interactive audience tabs and expandable service offerings
-
-## Preview locally
-Open `index.html` in a browser. An internet connection is required for Google Fonts and the externally hosted photography.
+- `index.html` — complete self-contained website, including CSS and JavaScript.
+- `README.md` — deployment notes.
 
 ## Publish on GitHub Pages
 1. Create a GitHub repository.
-2. Upload `index.html`, `styles.css`, and `script.js` to the repository root.
+2. Upload `index.html` and `README.md` to the repository root.
 3. Open **Settings → Pages**.
-4. Under Build and deployment, select **Deploy from a branch**, choose `main` and `/(root)`, then save.
-5. Wait for GitHub Pages to publish the site.
+4. Select **Deploy from a branch**, choose `main` and `/(root)`, then save.
+5. Open the published URL after the deployment finishes.
 
-## Notes before production
-- This is a front-end prototype, not an official Aranca deployment.
-- The Aranca wordmark is represented as styled text; replace it with approved brand assets before production.
-- Photography is loaded from Unsplash-hosted image URLs.
-- Contact buttons point to Aranca's public contact page. No form data is collected.
-- Review final brand colors, copy, legal notices, accessibility and image licensing with the website owner before publishing.
+## Before public launch
+- Verify all company statistics and case-study descriptions with approved Aranca sources.
+- Confirm that the contact email and external links are correct.
+- Confirm that the segment taxonomy and service descriptions have been approved.
+- Review brand assets and image/licensing requirements.
+- This is a website concept, not an official Aranca publication.
+
